@@ -135,11 +135,11 @@ Upload file:
 
 ## 3. Masukkan Data Blynk
 
-Ganti bagian berikut:
 
 ```cpp
-#define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
-#define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN"
+#define BLYNK_TEMPLATE_ID "TMPL6C-2834LN"
+#define BLYNK_TEMPLATE_NAME "Reminder Service"
+#define BLYNK_AUTH_TOKEN "oEbkszrv3iLB7RXVQPbX1LhjlUS2fsdX"
 ```
 
 ---
@@ -159,7 +159,7 @@ Pada Wokwi:
 Menambah kilometer kendaraan.
 
 ```text
-1 klik = +10 KM
+1 klik = +500 KM
 ```
 
 ---
@@ -221,7 +221,8 @@ Widget yang digunakan:
 
 # 👨‍💻 Author
 
-Ichsan Pratama P
+* Ichsan Pratama Putra
+* 23552011205
 
 ---
 
